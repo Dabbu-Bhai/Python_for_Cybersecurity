@@ -2,7 +2,7 @@
 # with open("file.txt","r") as f:
 #     print("Read with r mode \n",f.read())
 
-# write mode removes all previous data 
+# write mode removes all previous data in the file
 # with open("file.txt","w") as f:
 #     f.write("Written with write mode \n")
 
