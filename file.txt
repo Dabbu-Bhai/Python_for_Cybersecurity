@@ -1,2 +1,2 @@
 Written with write mode 
-Written with append mode 
+Written with append mode
