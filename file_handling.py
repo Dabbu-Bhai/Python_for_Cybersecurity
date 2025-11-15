@@ -14,9 +14,9 @@
 # with open("file.txt","r+") as f: #if written with this then file data is erased
 #     # f.seek(6) #from where you fant to read the file
 #     pos = f.tell()
-#     content = f.read()
+#     contents= f.read()
 #     print("Currently pointer is at :",pos,end="\n")
-#     print(content)
+#     print(contents)
 
 with open("file.txt","r") as f:
     content = f.read()
