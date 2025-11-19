@@ -1,0 +1,23 @@
+Best pre-built packages/libs for hackers
+
+Import os:
+    listing files,creating directories or managing processes
+
+import subprocess:
+    allows to run shell commands directly from python
+
+socket - used for networking related tasks / network communication
+
+scapy - Scapy is a powerful interactive packet manipulation program written in Python. It allows users to send, sniff, dissect, and forge network packets, making it a versatile tool for network analysis, security testing, and development
+
+cryptography - The Python cryptography library is a robust and actively developed package that provides cryptographic recipes and primitives to Python developers. It is designed to be the "cryptographic standard library" for Python.
+
+requests - The requests library in Python is a popular and user-friendly HTTP library designed to simplify the process of making HTTP requests. It allows developers to send various types of requests (GET, POST, PUT, DELETE, etc.) to web servers and interact with web resources like APIs and websites.
+
+paramiko - Paramiko is a pure-Python library that implements the SSHv2 protocol, offering both client and server functionalities. It is a powerful tool for automating IT infrastructure management and interacting with remote systems over SSH
+
+python-nmap - The python-nmap library is a Python wrapper that allows users to interact with the Nmap security scanner from within Python scripts. It provides a programmatic way to perform network scanning and reconnaissance tasks, automate Nmap scans, and parse the results.
+
+pyshark - Pyshark is a Python wrapper for TShark, the command-line interface (CLI) of Wireshark. It provides a way to interact with network packet data within Python scripts, leveraging TShark's powerful packet dissection capabilities. 
+
+impacket - Impacket is a Python library designed for working with network protocols, particularly those common in Windows environments like SMB, MSRPC, and Kerberos. It provides low-level programmatic access, allowing users to construct, parse, and interact with network packets and protocol implementations.

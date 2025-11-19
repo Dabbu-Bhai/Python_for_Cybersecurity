@@ -6,7 +6,7 @@
 # with open("file.txt","w") as f:
 #     f.write("Written with write mode \n")
 
-# use append function to add to file 
+# # use append function to add to file 
 # with open("file.txt","a") as f:
 #     f.write("Written with append mode \n")
 
